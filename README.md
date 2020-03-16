@@ -20,7 +20,7 @@ Change tool_name.md to your tool name (ex: lynis.md)
 
 If you think we missed a category, do not hesitate to contact us (or push request).
 
-### Contact us
+### Liên hệ:
 
-* [Twitter](https://twitter.com/toolswatch)
-* [Email](mailto:hacker@toolswatch.org)
+* [Facebook](https://www.facebook.com/k4t3pro)
+* [Email](anhgsodan@gmail.com)
